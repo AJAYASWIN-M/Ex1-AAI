@@ -1,4 +1,4 @@
-<H3> Name : Ajay Aswin M D</H3>
+<H3> Name : Ajay Aswin M </H3>
 <H3> Register No : 212222240005</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 09-09-2024</H3>
